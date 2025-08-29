@@ -1,0 +1,9 @@
+{
+  "name": "cucumber-ext-bug",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0"
+  },
+  "scripts": {
+    "test": "npx cucumber-js"
+  }
+}
